@@ -1,6 +1,2 @@
 /* eslint-disable */
-import wkProgress from './src/wk-progress.vue';
-
-export {
-    wkProgress,
-}
+module.exports = require('./src/wk-progress.vue');

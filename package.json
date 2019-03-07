@@ -11,9 +11,13 @@
     "Weex",
     "Vue",
     "WeexComponent",
-    "Progress",
-    "Circle"
+    "Progress"
   ],
-  "author": "wyc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FateOfKing/wk_progress.git"
+  },
+  "author": "FateOfKing",
+  "type": "weex",
   "license": "MIT"
 }
