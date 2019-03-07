@@ -1,0 +1,19 @@
+{
+  "name": "wk-progress",
+  "version": "1.0.0",
+  "description": "一个优雅的weex进度条组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wk-progress",
+    "Weex",
+    "Vue",
+    "WeexComponent",
+    "Progress",
+    "Circle"
+  ],
+  "author": "wyc",
+  "license": "MIT"
+}
